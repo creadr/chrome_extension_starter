@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "permissions": [
     "activeTab",
-    "http://www.example.com/"
+    "http://www.example.com/",
+    "http://localhost:8000/"
   ],
   "background": {
     "scripts": ["background.js"],
